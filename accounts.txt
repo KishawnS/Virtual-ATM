@@ -1,0 +1,5 @@
+Account Number | Client Name | Pin | Account Balance
+1577308 | John Smith | 1234 | 103.46
+7023017 | Jane Doe | 2341 | 2975.39
+5096032 | Michael Brown | 3412 | 31947.85
+6358283 | Emily Williams | 4123 | 43.02
